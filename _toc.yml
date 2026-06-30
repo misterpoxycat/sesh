@@ -5,6 +5,7 @@ format: jb-book
 root: docs/intro
 
 chapters:
+  - file: docs/intro
   - file: docs/temperaturer
   - file: docs/terpener
   - file: docs/kapsel
