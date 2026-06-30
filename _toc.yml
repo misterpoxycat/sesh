@@ -8,10 +8,10 @@ chapters:
   - file: docs/temperaturer
   - file: docs/terpener
   - file: docs/kapsel
-  - file: docs/grinder
   - file: docs/rygning
 
   # Gemte kapitler
+  # - file: docs/grinder
   # - file: docs/markdown
   # - file: docs/temperatur_guide_vaping_full
   # - file: docs/notebooks
