@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Jupyter Book build output
+_build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]

@@ -1,0 +1,18 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: docs/intro
+
+chapters:
+  - file: docs/temperaturer
+  - file: docs/terpener
+  - file: docs/kapsel
+  - file: docs/grinder
+  - file: docs/rygning
+
+  # Gemte kapitler
+  # - file: docs/markdown
+  # - file: docs/temperatur_guide_vaping_full
+  # - file: docs/notebooks
+  # - file: docs/markdown-notebooks

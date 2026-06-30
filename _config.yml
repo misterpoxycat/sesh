@@ -1,0 +1,47 @@
+# Book settings
+# Learn more at https://jupyterbook.org/customize/config.html
+
+title: Vape, Chill, Repeat
+author: Master Sesh
+logo: _static/vape_light.png
+copyright: ""
+
+sphinx:
+  extra_extensions:
+    - sphinx.ext.todo
+
+  config:
+    todo_include_todos: true
+    html_theme_options:
+      logo:
+        image_light: "_static/vape_light.png"
+        image_dark: "_static/vape_dark.png"
+
+# Force re-execution of notebooks on each build.
+# See https://jupyterbook.org/content/execute.html
+execute:
+  execute_notebooks: force
+
+parse:
+  myst_extended_syntax: true
+
+# Define the name of the LaTeX output file for PDF builds
+latex:
+  latex_documents:
+    targetname: book.tex
+
+# Bibliography
+bibtex_bibfiles:
+  - references.bib
+
+# Information about the online repository
+repository:
+  url: https://github.com/misterpoxycat/sesh
+  path_to_book: docs
+  branch: main
+
+html:
+  use_issues_button: true
+  use_repository_button: true
+  home_page_in_navbar: true
+  extra_head: "<meta name='robots' content='noindex, nofollow'>"
