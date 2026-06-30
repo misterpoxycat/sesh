@@ -33,9 +33,6 @@ Denne guide bygger på den tankegang. Den kombinerer kendt viden om cannabis og 
 3. **Kapselguide – XMax V3 Pro**\
    En praktisk gennemgang af Master Sesh' foretrukne metode med doseringskapsel, gradvis temperaturstigning og fokus på en balanceret ekstraktion.
 
-4. **Rygning vs. vaping**\
-   En sammenligning af de to indtagelsesformer med fokus på temperatur, forbrænding, smag, effektivitet og udnyttelse af plantens forbindelser.
-
 God fornøjelse – og husk Master Sesh' enkle råd:
 
 > *Det handler ikke om at ramme temperaturen.\
