@@ -24,40 +24,26 @@ Denne guide bygger på den tankegang. Den kombinerer kendt viden om cannabis og 
 
 ## Indhold
 
-::::{grid} 1 1 2 2
-:gutter: 3
+1. **Guide til temperaturer og effekter ved vaping af cannabis**\
+   Hvordan temperatur påvirker frigivelsen af terpener og cannabinoider, og hvilke effekter man typisk kan forvente gennem en session.
 
-:::{grid-item-card} Temperaturer
-:link: temperaturer
-:link-type: doc
+2. **Terpener i cannabis – mere end bare duft**\
+   En introduktion til de vigtigste terpener, deres aromaer og deres rolle i den samlede oplevelse.
 
-Hvordan temperatur påvirker frigivelsen af terpener og cannabinoider, og hvilke effekter man typisk kan forvente gennem en session.
-:::
+3. **Kapselguide – XMax V3 Pro**\
+   En praktisk gennemgang af Master Sesh' foretrukne metode med doseringskapsel, gradvis temperaturstigning og fokus på en balanceret ekstraktion.
 
-:::{grid-item-card} Terpener
-:link: terpener
-:link-type: doc
-
-En introduktion til de vigtigste terpener, deres aromaer og deres rolle i den samlede oplevelse.
-:::
-
-:::{grid-item-card} Kapselguide
-:link: kapsel
-:link-type: doc
-
-En praktisk gennemgang af Master Sesh' foretrukne metode med doseringskapsel, gradvis temperaturstigning og fokus på en balanceret ekstraktion.
-:::
-
-:::{grid-item-card} Rygning vs. vaping
-:link: rygning
-:link-type: doc
-
-En sammenligning af de to indtagelsesformer med fokus på temperatur, forbrænding, smag, effektivitet og udnyttelse af plantens forbindelser.
-:::
-
-::::
+4. **Rygning vs. vaping**\
+   En sammenligning af de to indtagelsesformer med fokus på temperatur, forbrænding, smag, effektivitet og udnyttelse af plantens forbindelser.
 
 God fornøjelse – og husk Master Sesh' enkle råd:
 
 > *Det handler ikke om at ramme temperaturen.\
-> Det handler om at følge den.*
+   Det handler om at følge den.*
+
+<!--
+### Kapitler
+
+```{tableofcontents}
+```
+-->
