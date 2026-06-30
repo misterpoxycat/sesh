@@ -1,1 +1,7 @@
 jupyter-book
+matplotlib
+numpy
+openpyxl
+pandas
+pandas[excel]
+altair
