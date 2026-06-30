@@ -4,7 +4,9 @@
 }
 </style>
 
-# Master (your) Sesh: Vape, Chill, Repeat 🌿💨
+# Master (your) Sesh
+
+## Vape, Chill, Repeat 🌿💨
 
 Velkommen.
 
