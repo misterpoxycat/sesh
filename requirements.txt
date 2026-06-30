@@ -1,7 +1,1 @@
-jupyter-book
-matplotlib
-numpy
-openpyxl
-pandas
-pandas[excel]
-altair
+jupyter-book==1.0.4.post1
