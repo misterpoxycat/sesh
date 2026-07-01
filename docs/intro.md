@@ -12,7 +12,7 @@ Der findes utallige råd om vaping. Nogle anbefaler én fast temperatur, andre g
 
 **Her møder du Master Sesh**.
 
-Master Sesh gør ikke krav på at have alle svarene. Han er den rolige stemme, der minder os om, at en god session sjældent handler om at skynde sig. Hvor andre jagter den hurtigste eller kraftigste effekt, følger han ekstraktionskurven trin for trin og lader oplevelsen udvikle sig i sit eget tempo. For ham handler en god session ikke om at presse urten mest muligt, men om at lade plantens mere flygtige nuancer udfolde sig og bidrage til helheden.
+Master Sesh gør ikke krav på at have alle svarene. Han er den rolige stemme, der minder os om, at en god session sjældent handler om at skynde sig. Hvor andre jagter den hurtigste eller kraftigste effekt, følger han ekstraktionskurven trin for trin og lader oplevelsen udvikle sig i sit eget tempo. For ham handler en god session ikke om at presse urten mest muligt, men om også at lade plantens mere flygtige nuancer udfolde sig og bidrage til helheden.
 
 Denne guide bygger på den tankegang. Den kombinerer etableret viden om cannabis og vaporisering med praktiske erfaringer fra brug af **XMax V3 Pro** og doseringskapsler. Formålet er ikke at påstå, at én metode er den eneste rigtige, men at give et fagligt fundament, så du selv kan eksperimentere og finde den session, der passer bedst til dine præferencer.
 
