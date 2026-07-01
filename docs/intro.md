@@ -18,7 +18,7 @@ Denne guide bygger på den tankegang. Den kombinerer etableret viden om cannabis
 
 God fornøjelse – og husk Master Sesh' enkle råd.
 
-> *Det handler ikke om at ramme temperaturen.\
+> *Det handler ikke om at ramme den rigtige temperatur.\
    Det handler om at følge den.*
 
 ---
