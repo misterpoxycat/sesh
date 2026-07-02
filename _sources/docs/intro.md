@@ -25,14 +25,14 @@ God fornøjelse – og husk Master Sesh' enkle råd.
 
 ## Indhold
 
-1. **Guide til temperaturer og effekter ved vaping af cannabis**\
-   Hvordan temperatur påvirker frigivelsen af terpener og cannabinoider, og hvilke effekter man typisk kan forvente gennem en session.
+1. **Guide til temperaturer og effekter ved vaping af cannabis**  
+   Hvordan temperatur påvirker frigivelsen af cannabinoider og terpener, og hvordan forskellige temperaturzoner typisk former oplevelsen gennem en session.
 
-2. **Terpener i cannabis – mere end bare duft**\
-   En introduktion til de vigtigste terpener, deres aromaer og deres rolle i den samlede oplevelse.
+2. **Terpener i cannabis – mere end bare duft**  
+   En introduktion til de vigtigste terpener, deres aromaer og deres samspil med cannabinoider gennem *entourage*-effekten.
 
-3. **Kapselguide – XMax V3 Pro**\
-   En praktisk gennemgang af Master Sesh' foretrukne metode med doseringskapsel, gradvis temperaturstigning og fokus på en balanceret ekstraktion.
+3. **The Way of Master Sesh**  
+   En gradvis temperaturprofil med doseringskapsel, fokus på balance og forslag til, hvordan metoden kan tilpasses forskellige ønsker og oplevelser.
 
 <!--
 ### Kapitler
