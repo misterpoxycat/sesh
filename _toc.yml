@@ -7,4 +7,4 @@ root: docs/intro
 chapters:
   - file: docs/temperaturer
   - file: docs/terpener
-  - file: docs/kapsel
+  - file: docs/mastersesh
