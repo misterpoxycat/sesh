@@ -31,8 +31,8 @@ God fornøjelse – og husk Master Sesh' enkle råd.
 2. **Terpener i cannabis – mere end bare duft**  
    En introduktion til de vigtigste terpener, deres aromaer og deres samspil med cannabinoider gennem *entourage*-effekten.
 
-3. **The Way of Master Sesh**  
-   En gradvis temperaturprofil med doseringskapsel, fokus på balance og forslag til, hvordan metoden kan tilpasses forskellige ønsker og oplevelser.
+3. **Master Sesh**  
+   En praktisk guide til Master Sesh-filosofien med kapselguide samt forslag til, hvordan du kan justere metoden.
 
 <!--
 ### Kapitler
